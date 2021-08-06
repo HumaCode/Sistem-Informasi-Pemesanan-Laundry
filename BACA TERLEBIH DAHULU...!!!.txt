@@ -1,0 +1,12 @@
+Dianjurkan untuk menggunakan php versi terbaru v7.4.
+
+jika menggunakan php v5.4 kebawah silahkan di upgrade ke versi yang lebih baru.
+ataupun jika belum menginstal di rekomendasikan instal yang versi terbaru
+
+admin
+username : admin
+pass : 123456
+
+kasir
+username : kasir
+pass : 123456
